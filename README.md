@@ -10,7 +10,7 @@
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](CHANGELOG.md)
 [![Status](https://img.shields.io/badge/status-Production%20Ready-brightgreen.svg)]()
 
-[🌐 Website](https://prfi.dev) • [📚 Documentação](https://docs.prfi.dev) • [🎮 Playground](https://prfi.dev/playground) • [💬 Discord](https://discord.gg/prfi)
+
 
 </div>
 
